@@ -1,0 +1,1 @@
+650687152614.dkr.ecr.us-east-1.amazonaws.com/tf2-object-detection:20220407152308

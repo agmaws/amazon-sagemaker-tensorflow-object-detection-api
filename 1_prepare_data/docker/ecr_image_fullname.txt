@@ -1,0 +1,1 @@
+650687152614.dkr.ecr.us-east-1.amazonaws.com/tfrecord-processing:20220407132942
